@@ -1,6 +1,7 @@
 # 代理补充列表
 # Mylist
 DOMAIN-KEYWORD,gmgn
+DOMAIN-SUFFIX,42cdn.net
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
