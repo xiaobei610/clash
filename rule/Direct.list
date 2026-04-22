@@ -2,13 +2,6 @@
 
 # MyList
 
-# Emby
-DOMAIN-SUFFIX,sgtv.ii00.cc
-DOMAIN-SUFFIX,sptv.ii00.cc
-DOMAIN,g.once.im,DIRECT
-DOMAIN,p.once.im,DIRECT
-DOMAIN-SUFFIX,cn-music.mefun.vip
-
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
